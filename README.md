@@ -8,3 +8,4 @@
      - Norms (L1, L2, Lp)
      - Projections and Angles
      - Span and Linear Independence
+     - Basis and Dimension
