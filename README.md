@@ -9,3 +9,4 @@
      - Projections and Angles
      - Span and Linear Independence
      - Basis and Dimension
+     - Orthogonality & orthonormalization
