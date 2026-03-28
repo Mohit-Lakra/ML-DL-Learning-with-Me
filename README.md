@@ -11,3 +11,4 @@
      - Basis and Dimension
      - Orthogonality & orthonormalization
      - Inner product spaces
+     - The Gram-Schmidt Process
