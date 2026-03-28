@@ -7,3 +7,4 @@
      - Dot product and cross product
      - Norms (L1, L2, Lp)
      - Projections and Angles
+     - Span and Linear Independence
