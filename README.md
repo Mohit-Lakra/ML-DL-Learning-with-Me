@@ -10,3 +10,4 @@
      - Span and Linear Independence
      - Basis and Dimension
      - Orthogonality & orthonormalization
+     - Inner product spaces
