@@ -1,17 +1,10 @@
 # ML-DL-Learning-with-Me
 
 #Phase 1 - Mathematical Foundation
-- Linear Algebra
-  -  Vector and Operations
-    - Vector spaces & subspaces
-    - Dot product and cross product
-    - Norms (L1, L2, Lp)
-    - Projections and Angles
-    - Span and Linear Independence
-    - Basis and Dimension
-    - Orthogonality & orthonormalization
-    - Inner product spaces
-    - The Gram-Schmidt Process
 
-  - Matrices
-    - Matrix Multiplication & Transpose
+- Week 1 : Vectors & Linear Algebra Foundations
+  - Day 1 : What are Vectors
+    - 3Blue1Brown: Essence of Linear Algebra Ch.1 — Vectors, what even are they?
+    - Code: implement add_vectors(), scale_vector(), dot_product() using only Python lists
+
+  - Day 2 :
